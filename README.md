@@ -3,10 +3,11 @@ This post will demonstrate Real time face detection with the YOLO system using a
 ## Overview
 [![Real Time Face Recognition](http://img.youtube.com/vi/UFYbAV8svr8/0.jpg)](http://www.youtube.com/watch?v=UFYbAV8svr8 "Real Time Face Recognition")
 ## Dependencies
-*PyQt5
-*Subprocess
-*Shlex
-*Opencv
-*Darknet
+
+* PyQt5
+* Subprocess
+* Shlex
+* Opencv
+* Darknet
 
 
