@@ -10,4 +10,15 @@ This post will demonstrate Real time face detection with the YOLO system using a
 * Opencv
 * Darknet
 
+## Usage
+
+In order to test the " Detect Mahdi " Function you need to download the retrained weights and cfg files:
+* obj.data 
+* obj.cfg and put it in "cfg file"
+* obj_3000.weight 
+
+In order to test the " Detect all " Function you need to download:
+* coco.data and put it in "cfg file"
+* yolov3-tiny.cfg and put it in "cfg file"
+* yolov3-tiny.weights 
 
